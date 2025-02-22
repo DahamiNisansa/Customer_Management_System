@@ -1,32 +1,50 @@
-# Customer_Management_System
-The Customer Management System is a full-stack web-based application designed to learn and practice CRUD(Create, Read, Update, Delete) and Search operations with Spring Boot framework. It follows a Layered Architecture for clear separation of concerns and scalability. The system is developed using Spring Boot for the backend, MySQL for database management, HTML, Bootstrap, and JavaScript for the frontend. 
+📌 Customer Management System
 
-Key Technologies :-
+📝 Overview
+The Customer Management System is a full-stack web-based application designed to learn and practice CRUD (Create, Read, Update, Delete) and Search operations using the Spring Boot framework. It follows a Layered Architecture to ensure a clear separation of concerns and scalability. This project is built using Spring Boot for the backend, MySQL for database management, and HTML, Bootstrap, and JavaScript for the frontend.
 
-Backend: Java, Spring Boot
-Frontend: HTML, Bootstrap, JavaScript
-Database: MySQL
-API Testing: Postman
-Tools: WAMP Server for local database setup
+🚀 Tech Stack
 
-Libraries :-
+🔹 Backend:
+            Java
+            Spring Boot
+            Spring Data JPA
+            Lombok
+            ModelMapper
 
-spring-boot-starter-web : Builds RESTful web applications.
-spring-boot-starter-data-jpa : Simplifies database operations.
-Lombok : Reduces boilerplate code with automatic getter/setter generation.
-MySQL-connector-j : Facilitates seamless database connectivity.
-model mapper : Transforms entities into DTOs efficiently.
+🔹 Frontend:
+            HTML
+            Bootstrap
+            JavaScript
 
-Functional Features :-
+🔹 Database:
+            MySQL (Managed via WAMP Server)
 
-Customer Registration – Add new customers with details like name, address, and salary.
-View Customers – Display customer details in a structured table.
-Update Customer Information – Modify existing customer data.
-Delete Customer – Remove customer records from the system.
-Search Functionality – Search customers by ID, name, address, or salary.
+🔹 API Testing:
+            Postman
 
-Key Features:
+📦 Libraries Used
+      ✅ Spring Boot → Builds RESTful web applications.
+      ✅ Spring Data JPA → Simplifies database operations.
+      ✅ Lombok → Reduces boilerplate code with automatic getter/setter generation.
+      ✅ vMySQL Connector → Facilitates seamless database connectivity.
+      ✅ ModelMapper → Transforms entities into DTOs efficiently.
 
-RESTful API – Exposes backend functionality via HTTP methods (GET, POST, PUT, DELETE).
-Layered Architecture – Ensures separation of concerns across Presentation, Service, Repository, and API layers.
-Dependency Injection & Interface-based Design – The service layer follows an interface-based approach with an implementation class to ensure loose coupling. Spring's @Service annotation enables automatic dependency injection.
+🔥 Features
+      ✅ Customer Registration – Add new customers with details like name, address, and salary.
+      ✅ View Customers – Display customer details in a structured table.
+      ✅ Update Customer Information – Modify existing customer data.
+      ✅ Delete Customer – Remove customer records from the system.
+      ✅ Search Functionality – Search customers by ID, name, address, or salary.
+
+🛠️ System Architecture
+
+🔹 Layered Architecture → Ensures separation of concerns across:
+        Presentation Layer (Frontend): Handles UI interactions.
+        Service Layer: Contains business logic.
+        Repository Layer: Manages database operations.
+        API Layer: Handles HTTP requests and responses.
+
+🔹 Dependency Injection & Interface-based Design →
+        Service layer follows an interface-based approach to ensure loose coupling.
+        Uses Spring's @Service annotation for automatic dependency injection.
