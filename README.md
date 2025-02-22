@@ -48,4 +48,4 @@ The Customer Management System is a full-stack web-based application designed to
                     - Uses Spring's @Service annotation for automatic dependency injection.
 
 ### 🌟 &nbsp; Connect with Me
-LinkedIN → https://www.linkedin.com/in/dahami-nisansa/
+ LinkedIn → https://www.linkedin.com/in/dahami-nisansa/
