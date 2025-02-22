@@ -5,23 +5,27 @@ The Customer Management System is a full-stack web-based application designed to
 
 🚀 Tech Stack
 
-🔹 Backend:
-            Java
-            Spring Boot
-            Spring Data JPA
-            Lombok
-            ModelMapper
-
-🔹 Frontend:
-            HTML
-            Bootstrap
-            JavaScript
-
-🔹 Database:
-            MySQL (Managed via WAMP Server)
-
-🔹 API Testing:
-            Postman
+            🔹 Backend:
+                        Java
+                        
+                        Spring Boot
+                        
+                        Spring Data JPA
+                        
+                        Lombok
+                        
+                        ModelMapper
+            
+            🔹 Frontend:
+                        HTML
+                        Bootstrap
+                        JavaScript
+            
+            🔹 Database:
+                        MySQL (Managed via WAMP Server)
+            
+            🔹 API Testing:
+                        Postman
 
 📦 Libraries Used
       ✅ Spring Boot → Builds RESTful web applications.
