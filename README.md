@@ -1,4 +1,4 @@
-                                                ### 📌 &nbsp; Customer Management System
+### 📌 &nbsp; Customer Management System
 
 ### 📝 &nbsp; Overview
 
