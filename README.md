@@ -1,8 +1,6 @@
 # Customer_Management_System
 The Customer Management System is a full-stack web-based application designed to learn and practice CRUD(Create, Read, Update, Delete) and Search operations with Spring Boot framework. It follows a Layered Architecture for clear separation of concerns and scalability. The system is developed using Spring Boot for the backend, MySQL for database management, HTML, Bootstrap, and JavaScript for the frontend. 
 
-GitHub Repository :- https://github.com/DahamiNisansa/Customer_Management_System
-
 Key Technologies :-
 
 Backend: Java, Spring Boot
