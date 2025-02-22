@@ -46,3 +46,6 @@ The Customer Management System is a full-stack web-based application designed to
             🔹 Dependency Injection & Interface-based Design →
                     - Service layer follows an interface-based approach to ensure loose coupling.
                     - Uses Spring's @Service annotation for automatic dependency injection.
+
+### 🌟 &nbsp; Connect with Me
+            LinkedIN → www.linkedin.com/in/dahami-nisansa
